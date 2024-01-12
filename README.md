@@ -1,5 +1,6 @@
 # Zajat
-MaRaNda Team 
+MaRaNda Team
+
 Hutsler:MUHAMMAD RAFID PRATAMA
 HipsterAyunda Zahira
 Hacker:Maulachusnan nursafaat
