@@ -4,7 +4,8 @@ MaRaNda Team
 Hutsler:MUHAMMAD RAFID PRATAMA
 HipsterAyunda Zahira
 Hacker:Maulachusnan nursafaat
-Aplikasi Zakat jawa tengah mobile berbasis Fluter dan firebase 
+Aplikasi Zakat jawa tengah mobile berbasis Fluter dan firebase
+##Hacker 2nd Submission
 implementasi Diagram sequence register & login
 page register
 ![Screenshot_20240112_131446.png](Screenshot_20240112_131446.png)
