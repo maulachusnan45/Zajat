@@ -1,18 +1,11 @@
-# Zajat_app
-
-A new Flutter project.zakat application for the Central Java region is based on a mobile app
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Zajat
+MaRaNda Team 
+Hutsler:MUHAMMAD RAFID PRATAMA
+HipsterAyunda Zahira
+Hacker:Maulachusnan nursafaat
+Aplikasi Zakat jawa tengah mobile berbasis Fluter dan firebase 
+implementasi Diagram sequence register & login
+page register
 ![Screenshot_20240112_131446.png](Screenshot_20240112_131446.png)
+page login
 ![Screenshot_20240112_131522.png](Screenshot_20240112_131522.png)
